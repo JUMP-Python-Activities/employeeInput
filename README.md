@@ -9,7 +9,6 @@
   - Record the employee’s birth year
 - Generate the employee’s email
   - Concatenate the first and last names with a “.”
-  - Add the last two digits of their birth year to the last name
   - Add @company.com to the end
 - Print all results to the screen. 
 - Output should look as follows
